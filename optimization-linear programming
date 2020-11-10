@@ -1,6 +1,6 @@
 example1 : scipy-method="revised simplex"
 
-Max: z=x+2y
+Max: z=x+2y -----> Min: -z=-x-2y
 
 constraints:
 2x+y <= 20
